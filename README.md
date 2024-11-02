@@ -50,9 +50,6 @@ While adding furniture can enhance comfort, it is essential to maintain a balanc
 - Exploration of flexible furniture options to adapt to changing needs in the reception area.
 - Engagement with stakeholders to align furniture decisions with the bank's branding and customer service goals.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Contact
 For any questions or feedback regarding this project, please contact:
 - Muhammad Ibrhaim
